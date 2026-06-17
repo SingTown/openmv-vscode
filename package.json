@@ -148,7 +148,13 @@
     "package:win32-arm64": "vsce package --no-dependencies --target win32-arm64 --ignoreFile .vscodeignore.win32",
     "package:linux-x64": "vsce package --no-dependencies --target linux-x64 --ignoreFile .vscodeignore.linux-x64",
     "package:linux-arm64": "vsce package --no-dependencies --target linux-arm64 --ignoreFile .vscodeignore.linux-arm64",
-    "package:all": "pnpm run package:darwin-arm64 && pnpm run package:win32-x64 && pnpm run package:win32-arm64 && pnpm run package:linux-x64 && pnpm run package:linux-arm64"
+    "package:all": "pnpm run package:darwin-arm64 && pnpm run package:win32-x64 && pnpm run package:win32-arm64 && pnpm run package:linux-x64 && pnpm run package:linux-arm64",
+    "package:pre-release:darwin-arm64": "vsce package --pre-release --no-dependencies --target darwin-arm64 --ignoreFile .vscodeignore.darwin-arm64",
+    "package:pre-release:win32-x64": "vsce package --pre-release --no-dependencies --target win32-x64 --ignoreFile .vscodeignore.win32",
+    "package:pre-release:win32-arm64": "vsce package --pre-release --no-dependencies --target win32-arm64 --ignoreFile .vscodeignore.win32",
+    "package:pre-release:linux-x64": "vsce package --pre-release --no-dependencies --target linux-x64 --ignoreFile .vscodeignore.linux-x64",
+    "package:pre-release:linux-arm64": "vsce package --pre-release --no-dependencies --target linux-arm64 --ignoreFile .vscodeignore.linux-arm64",
+    "package:all:pre-release": "pnpm run package:pre-release:darwin-arm64 && pnpm run package:pre-release:win32-x64 && pnpm run package:pre-release:win32-arm64 && pnpm run package:pre-release:linux-x64 && pnpm run package:pre-release:linux-arm64"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0",
