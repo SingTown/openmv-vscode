@@ -1,0 +1,17 @@
+{
+    "openmv.description": "Programujte svou OpenMV Cam ve VSCode",
+    "openmv.command.connect.title": "Připojit",
+    "openmv.command.disconnect.title": "Odpojit",
+    "openmv.command.runScript.title": "Spustit skript",
+    "openmv.command.stopScript.title": "Zastavit skript",
+    "openmv.command.drive.title": "Otevřít disk kamery",
+    "openmv.command.selectFrameSaveFolder.title": "Vybrat složku pro uložení snímků",
+    "openmv.command.saveFrame.title": "Uložit snímek",
+    "openmv.command.update.title": "Aktualizovat firmware",
+    "openmv.command.firmware.title": "Nahrát vlastní firmware...",
+    "openmv.command.repair.title": "Opravit firmware...",
+    "openmv.command.openExample.title": "Otevřít příklad",
+    "openmv.command.searchExample.title": "Hledat příklad",
+    "openmv.view.frame.name": "Snímek",
+    "openmv.view.examples.name": "Příklady"
+}

@@ -1,0 +1,17 @@
+{
+    "openmv.description": "VSCode で OpenMV Cam をプログラミング",
+    "openmv.command.connect.title": "接続",
+    "openmv.command.disconnect.title": "切断",
+    "openmv.command.runScript.title": "スクリプトを実行",
+    "openmv.command.stopScript.title": "スクリプトを停止",
+    "openmv.command.drive.title": "カメラドライブを開く",
+    "openmv.command.selectFrameSaveFolder.title": "フレーム保存フォルダーを選択",
+    "openmv.command.saveFrame.title": "フレームを保存",
+    "openmv.command.update.title": "ファームウェアを更新",
+    "openmv.command.firmware.title": "カスタムファームウェアを書き込み...",
+    "openmv.command.repair.title": "ファームウェアを修復...",
+    "openmv.command.openExample.title": "サンプルを開く",
+    "openmv.command.searchExample.title": "サンプルを検索",
+    "openmv.view.frame.name": "フレーム",
+    "openmv.view.examples.name": "サンプル"
+}

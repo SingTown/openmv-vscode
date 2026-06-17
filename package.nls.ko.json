@@ -1,0 +1,17 @@
+{
+    "openmv.description": "VSCode에서 OpenMV Cam 프로그래밍",
+    "openmv.command.connect.title": "연결",
+    "openmv.command.disconnect.title": "연결 해제",
+    "openmv.command.runScript.title": "스크립트 실행",
+    "openmv.command.stopScript.title": "스크립트 중지",
+    "openmv.command.drive.title": "카메라 드라이브 열기",
+    "openmv.command.selectFrameSaveFolder.title": "프레임 저장 폴더 선택",
+    "openmv.command.saveFrame.title": "프레임 저장",
+    "openmv.command.update.title": "펌웨어 업데이트",
+    "openmv.command.firmware.title": "사용자 지정 펌웨어 플래시...",
+    "openmv.command.repair.title": "펌웨어 복구...",
+    "openmv.command.openExample.title": "예제 열기",
+    "openmv.command.searchExample.title": "예제 검색",
+    "openmv.view.frame.name": "프레임",
+    "openmv.view.examples.name": "예제"
+}

@@ -1,0 +1,17 @@
+{
+    "openmv.description": "Programozza OpenMV Cam-jét a VSCode-ban",
+    "openmv.command.connect.title": "Csatlakozás",
+    "openmv.command.disconnect.title": "Szétkapcsolás",
+    "openmv.command.runScript.title": "Szkript futtatása",
+    "openmv.command.stopScript.title": "Szkript leállítása",
+    "openmv.command.drive.title": "Kamera meghajtó megnyitása",
+    "openmv.command.selectFrameSaveFolder.title": "Képkocka mentési mappa kiválasztása",
+    "openmv.command.saveFrame.title": "Képkocka mentése",
+    "openmv.command.update.title": "Firmware frissítése",
+    "openmv.command.firmware.title": "Egyéni firmware feltöltése...",
+    "openmv.command.repair.title": "Firmware javítása...",
+    "openmv.command.openExample.title": "Példa megnyitása",
+    "openmv.command.searchExample.title": "Példa keresése",
+    "openmv.view.frame.name": "Képkocka",
+    "openmv.view.examples.name": "Példák"
+}

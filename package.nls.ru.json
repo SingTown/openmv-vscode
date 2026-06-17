@@ -1,0 +1,17 @@
+{
+    "openmv.description": "Программируйте вашу OpenMV Cam в VSCode",
+    "openmv.command.connect.title": "Подключить",
+    "openmv.command.disconnect.title": "Отключить",
+    "openmv.command.runScript.title": "Запустить скрипт",
+    "openmv.command.stopScript.title": "Остановить скрипт",
+    "openmv.command.drive.title": "Открыть диск камеры",
+    "openmv.command.selectFrameSaveFolder.title": "Выбрать папку для сохранения кадров",
+    "openmv.command.saveFrame.title": "Сохранить кадр",
+    "openmv.command.update.title": "Обновить прошивку",
+    "openmv.command.firmware.title": "Прошить пользовательскую прошивку...",
+    "openmv.command.repair.title": "Восстановить прошивку...",
+    "openmv.command.openExample.title": "Открыть пример",
+    "openmv.command.searchExample.title": "Поиск примеров",
+    "openmv.view.frame.name": "Кадр",
+    "openmv.view.examples.name": "Примеры"
+}

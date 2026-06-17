@@ -1,0 +1,17 @@
+{
+    "openmv.description": "OpenMV Cam'inizi VSCode'da programlayın",
+    "openmv.command.connect.title": "Bağlan",
+    "openmv.command.disconnect.title": "Bağlantıyı Kes",
+    "openmv.command.runScript.title": "Betiği Çalıştır",
+    "openmv.command.stopScript.title": "Betiği Durdur",
+    "openmv.command.drive.title": "Kamera Sürücüsünü Aç",
+    "openmv.command.selectFrameSaveFolder.title": "Kare Kaydetme Klasörü Seç",
+    "openmv.command.saveFrame.title": "Kareyi Kaydet",
+    "openmv.command.update.title": "Ürün Yazılımını Güncelle",
+    "openmv.command.firmware.title": "Özel Ürün Yazılımı Yükle...",
+    "openmv.command.repair.title": "Ürün Yazılımını Onar...",
+    "openmv.command.openExample.title": "Örnek Aç",
+    "openmv.command.searchExample.title": "Örnek Ara",
+    "openmv.view.frame.name": "Kare",
+    "openmv.view.examples.name": "Örnekler"
+}

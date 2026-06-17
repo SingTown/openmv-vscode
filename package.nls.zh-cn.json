@@ -1,0 +1,17 @@
+{
+    "openmv.description": "在 VSCode 中为 OpenMV Cam 编程",
+    "openmv.command.connect.title": "连接",
+    "openmv.command.disconnect.title": "断开连接",
+    "openmv.command.runScript.title": "运行脚本",
+    "openmv.command.stopScript.title": "停止脚本",
+    "openmv.command.drive.title": "打开摄像头磁盘",
+    "openmv.command.selectFrameSaveFolder.title": "选择图像保存文件夹",
+    "openmv.command.saveFrame.title": "保存图像",
+    "openmv.command.update.title": "升级固件",
+    "openmv.command.firmware.title": "烧录自定义固件...",
+    "openmv.command.repair.title": "修复固件...",
+    "openmv.command.openExample.title": "打开示例",
+    "openmv.command.searchExample.title": "搜索示例",
+    "openmv.view.frame.name": "图像",
+    "openmv.view.examples.name": "示例"
+}

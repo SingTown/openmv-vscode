@@ -1,0 +1,17 @@
+{
+    "openmv.description": "Programmieren Sie Ihre OpenMV Cam in VSCode",
+    "openmv.command.connect.title": "Verbinden",
+    "openmv.command.disconnect.title": "Trennen",
+    "openmv.command.runScript.title": "Skript ausführen",
+    "openmv.command.stopScript.title": "Skript stoppen",
+    "openmv.command.drive.title": "Kameralaufwerk öffnen",
+    "openmv.command.selectFrameSaveFolder.title": "Speicherordner für Frames auswählen",
+    "openmv.command.saveFrame.title": "Frame speichern",
+    "openmv.command.update.title": "Firmware aktualisieren",
+    "openmv.command.firmware.title": "Benutzerdefinierte Firmware flashen...",
+    "openmv.command.repair.title": "Firmware reparieren...",
+    "openmv.command.openExample.title": "Beispiel öffnen",
+    "openmv.command.searchExample.title": "Beispiel suchen",
+    "openmv.view.frame.name": "Frame",
+    "openmv.view.examples.name": "Beispiele"
+}
