@@ -2,7 +2,7 @@
   "name": "openmv",
   "displayName": "OpenMV",
   "description": "%openmv.description%",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "packageManager": "pnpm@11.0.9",
   "publisher": "singtown",
   "l10n": "./l10n",
